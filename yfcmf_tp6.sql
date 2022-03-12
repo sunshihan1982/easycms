@@ -13,8 +13,7 @@ File Encoding         : 65001
 Date: 2019-09-21 10:57:56
 */
 
-SET
-FOREIGN_KEY_CHECKS=0;
+SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
 -- Table structure for fa_admin
@@ -894,5 +893,4 @@ CREATE TABLE `__PREFIX__version`
 INSERT INTO `__PREFIX__version`
 VALUES ('1', '1.1.1,2', '1.2.1', '20M', '更新内容', 'https://www.iuok.cn/download.html', '1', '1520425318', '0', '0',
         'normal');
-SET
-FOREIGN_KEY_CHECKS=1;
+SET FOREIGN_KEY_CHECKS=1;
