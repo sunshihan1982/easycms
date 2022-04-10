@@ -32,5 +32,5 @@ config/app.php文件第22行，将yfcmf改成你自己的后台地址
 - 应用分页标签：nav:pagedapps
 
 # 联系我们
-飞机群：https://t.me/easy_cms
+飞机号：@ijiaozhu
 
